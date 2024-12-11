@@ -1,0 +1,15 @@
+[submodule "cameras"]
+	path = cameras
+	url = https://github.com/DanSimons/camera_container.git
+[submodule "orb_docker"]
+	path = orb_docker
+	url = https://github.com/DanSimons/orbslam3_docker.git
+[submodule "orb_slam3_ros_wrapper"]
+	path = orb_slam3_ros_wrapper
+	url = https://github.com/DanSimons/orb_slam3_ros_wrapper.git
+[submodule "wrapper"]
+	path = wrapper
+	url = https://github.com/DanSimons/orb_slam3_ros_wrapper.git
+[submodule "kalibr"]
+	path = kalibr
+	url = https://github.com/ethz-asl/kalibr.git
